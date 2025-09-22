@@ -1,5 +1,6 @@
 # Aimmy-Makcu
-Aimmy With Makcu Support Fixed as of 2025-09-22
+Aimmy With Makcu Support Fixed as of 2025-09-22 =-> Fix Verison Of https://github.com/sdfgasfgr/Aimmy-Makcu
+
 If you enjoy Aimmy, please consider giving us a star ⭐! We appreciate it! :)
 
 
