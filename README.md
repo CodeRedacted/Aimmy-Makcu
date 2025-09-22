@@ -1,3 +1,9 @@
+FOR MODEL'S
+LINK : 1 = https://github.com/whoswhip/aimmy-models/tree/main/models
+LINK : 2 = https://github.com/TaylorIsBlue/CertifiedAimmyModels/tree/master/models
+
+FOR CONFIG'S
+LINK : 1 = https://github.com/whoswhip/aimmy-models/tree/main/configs
 
 > [!NOTE]
 > If you enjoy Aimmy, please consider giving us a star ⭐! We appreciate it! :)
